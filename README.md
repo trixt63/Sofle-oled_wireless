@@ -3,6 +3,7 @@
 ![Default Keymap](./keymap-drawer/sofle.svg)
 
 ## Tutorial:
+Tham khảo [hướng dẫn gốc của shop](https://github.com/Hieupham0012/KEYMAP-ZMK_GUIDE_Cornev4_Soflev4).
 1. Fork lại repo này.
 2. Sử dụng [Keymap editor](https://nickcoutsos.github.io/keymap-editor/) làm GUI chỉnh sửa keymap. Cấp quyền access vào Repo của mình để thực hiện keymap.
 3. Sau khi thao tác trên keymap editor, ấn Save để thực hiện commit vào repo, từ đó trigger Github Actions workflow.
